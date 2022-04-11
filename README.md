@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Scorpiussmith13
-- 👀 I’m interested in OpenSource
+- 👀 Ongoing research on BioInformatics
 - 🌱 I’m currently learning Android Native Dev
+- 
 
 <!---
 Scorpiussmith13/Scorpiussmith13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
