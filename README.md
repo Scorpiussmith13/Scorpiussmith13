@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Scorpiussmith13
-- 👀 Ongoing research on BioInformatics
-- 🌱 I’m currently learning Android Native Dev
-- 
+- 🌱 I’m currently learning to Learn, Unlearn and Relearn
 
 <!---
 Scorpiussmith13/Scorpiussmith13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
